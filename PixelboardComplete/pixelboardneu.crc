@@ -1,0 +1,22 @@
+﻿  Modell PIXELBOARDNEU: 
+ 
+
+  1 Zirkulärer-Bezug-Schleifen gefunden
+ 
+
+   Schleife Nr. 1
+
+   Schleifentiefe beträgt 4
+
+KE-Nummer 23 (KOMPONENTE, ID = 122) 
+  in Modell PIXELBOARDNEU verweist auf:
+
+KE-Nummer 14 (Auswechseln_1, ID = 340) 
+  in Modell RAHMENKURZ muss folgen nach:
+
+KE-Nummer 13 (KOPIE-GEOMETRIE, ID = 327) 
+  in Modell RAHMENKURZ verweist auf:
+
+KE-Nummer 23 (KOMPONENTE, ID = 122) 
+  in Modell PIXELBOARDNEU - Kreis geschlossen.
+

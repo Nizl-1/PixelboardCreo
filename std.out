@@ -1,0 +1,1121 @@
+Application is running with Unicode string encoding.
+pglSetStatus::   Pgl Session Initialize (INFO MESSAGE)
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,APP_LANG_TEXT_DIR,APP_TEXT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+Valid file msgtxt.del with extension del was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,USER_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,APP_LANG_TEXT_DIR,APP_TEXT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,PRO_FONT_DIR
+Valid file mdgtxt.add with extension add was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,USER_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,APP_LANG_TEXT_DIR,APP_TEXT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,PRO_FONT_DIR
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,APP_LANG_TEXT_DIR,APP_TEXT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+Valid file msgtxt.del with extension del was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,USER_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,APP_LANG_TEXT_DIR,APP_TEXT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,PRO_FONT_DIR
+Valid file mdgtxt.add with extension add was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,USER_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,APP_LANG_TEXT_DIR,APP_TEXT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,PRO_FONT_DIR
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+W : pro_bind : attempt to bind function "is_creo_internal_name" , which is already bound
+W : pro_bind : attempt to bind function "get_name_list_id" , which is already bound
+creo_ZBFetcher::OnZbrowserServiceAvailable:  Signal tc_tag: ZBROWSER_AVAILABLE_TAG (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdDwgTblFromGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFltFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Can't to find the command: ProCmdFaceted (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 57 commands (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdMankSelGalPostr' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'symbol_galery_large.png' is not valid ('32x32') in short resource 'procmdpmaoptsymlib.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'symbol_reference_large.png' is not valid ('32x32') in short resource 'procmdpmapushsymreferences.res' (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdPmaOptSymLib' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdPmaCascadeHatchLib' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdPmaOptSurfFinLib' should be type uiCmdTypeNone (INFO MESSAGE)
+UitGroupItem::initVertCells:  The maximum group height has been increased to 100 (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+ULC::LoadLow:  The customization file is being read from C:\Users\schla\AppData\Roaming\PTC\ProENGINEER\Wildfire\.wf\.Settings\creo_parametric_customization.ui (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'procmdsimzip_large.png' is not valid ('32x32') in short resource 'procmdsimintegexportapr.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'procmdsimzip_large.png' is not valid ('32x32') in short resource 'procmdsimintegexportdscodat.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image '3D_web_print_large' is not valid ('32x32') in short resource 'procmd3dprintorder.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'start_session_large.bif' is not valid ('32x32') in short resource 'procmdstartexperiment.res' (INFO MESSAGE)
+pglSetStatus::   PglWindowEndNoGraphics: Not in nographics mode. (INFO MESSAGE)
+
+ run mode = 2
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 10.0.4.0\Common Files\\x86e_win64\obj\SWToPro.exe accessible (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 10.0.4.0\Common Files\\x86e_win64\obj\SeodxToPro.exe accessible (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  Can't find a resource ProCmdApplMenuDbgInfo. (INFO MESSAGE)
+AdbPage::buildSizeStateTable:  Can't build Size State Table for page 'home_File' (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+pro_locate_colormap ()
+located color definition C:\Program Files\PTC\Creo 10.0.4.0\Common Files\graphic-library\appearances\appearance.dmt
+pro_locate_colormap ()
+located color definition C:\Program Files\PTC\Creo 10.0.4.0\Common Files\graphic-library\appearances\global.dmt
+pro_locate_colormap ()
+located Default color definition C:\Program Files\PTC\Creo 10.0.4.0\Common Files\graphic-library\appearances\default.dmt
+creoapp_get_root_info:  no active workspace (INFO MESSAGE)
+creoapp_get_root_info:  no workspace for 0 (INFO MESSAGE)
+creoapp_get_root_info:  no roots? (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  access failed (INFO MESSAGE)
+ugc_set_cur_portion:  reset encountered (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding UGC_HEADER_ONLY (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_HEADER_ONLY (INFO MESSAGE)
+PFSTReverseMatchType:  changing 1 to 1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+
+retrieving assembly pixelboard ...
+preread_solid:  start 4 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1, session_name=PIXELBOARD obj_type=1 (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 0 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+File: Solid PIXELBOARD, type 1, generic , status = override
+
+retrieving part seitenplatte-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1, session_name=SEITENPLATTE-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 0 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid SEITENPLATTE-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 0 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part seitenplatte-2 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1, session_name=SEITENPLATTE-2 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid SEITENPLATTE-2, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part stirnplatte-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1, session_name=STIRNPLATTE-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 2 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid STIRNPLATTE-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 2 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part stirnplatte-2 ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1, session_name=STIRNPLATTE-2 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 3 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid STIRNPLATTE-2, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 3 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part eckteil-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7, session_name=ECKTEIL-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 4 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid ECKTEIL-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 4 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part waermeplatte ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3, session_name=WAERMEPLATTE obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 5 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid WAERMEPLATTE, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 5 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 0 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+retrieve_assem:  Successfully retrieved C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 3 (INFO MESSAGE)
+feat 47 was rolled forward.
+enable_save:  background save enabled, disable_count = 2 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+model_has_new_failures:  new failure detected, feat id = 47 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+pro_notification_remove:  event_id 0 was never defined? (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+init_simulate_app:  mode = MECH_INIT_ONDEMAND (INFO MESSAGE)
+W : pro_bind : attempt to bind function "sim_tree_expand_new_created_objects" , which is already bound
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+pro_notification_remove:  event_id 0 was never defined? (INFO MESSAGE)
+vmcs_should_delete_thumbnail:  invalid view manager thumbnail name main_-1 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'linear_acceleration_large' is not valid ('32x32') in short resource 'procmdsimintegacceleration.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'wgen_generate_related_items_large.png' is not valid ('32x32') in short resource 'procmdwdggenerator.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'mtrl_cur.bif' is not valid ('10x12') in short resource 'procmdmmassignmaterial.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'mtrl_cur.bif' is not valid ('10x12') in short resource 'procmdmmassignmaterialtocomp.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  Can't find a resource ProCmdApplMenuDbgInfo. (INFO MESSAGE)
+UitGroupCascadeItem::updateVisibleItem:  The visible item in Cascade 'casc3104001' changed to 'ProCmdEnvShaded_item' (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+_conv_obj_shd:  Serment with id 444 not found in PGL_DISPDATA_GPU_REUSE call, is this case of part saved w/o graphics  (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+MdlTreeHtmlEnter:  Entered html icon of node id 2 (INFO MESSAGE)
+MdlTreeHtmlExit:  Exited html icon of node id 2 (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+MdlTreeHtmlEnter:  Entered html icon of node id 2 (INFO MESSAGE)
+MdlTreeHtmlExit:  Exited html icon of node id 2 (INFO MESSAGE)
+Wow - no dep structure.
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637832 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126406312 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126407048 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1125543304 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127427656 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082388936 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637096 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127421768 in local storage (INFO MESSAGE)
+pglSetStatus::   PglWindowEndDynamic: Not in PGL_ACTIVITY_DRAW_DYNAMIC. (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+addHints:  adding UGC_HEADER_ONLY (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_HEADER_ONLY (INFO MESSAGE)
+PFSTReverseMatchType:  changing 1 to 1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+W-promenu_on_button can not find ASSEMBLY-Info
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+BasePopupMenu::verifyNewItem:  MenuItem with same name exists - VmUiRedefine (INFO MESSAGE)
+vmcs_should_delete_thumbnail:  invalid view manager thumbnail name main_-1 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+MdlTreeStoreSelBuf():  Store selection buffer of the command 19 (INFO MESSAGE)
+MdlTreeRestoreSelBuf():  Restore selection buffer from backup (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637832 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126406312 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126407048 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1125543304 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127427656 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082388936 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637096 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127421768 in local storage (INFO MESSAGE)
+pglSetStatus::   PglWindowEndDynamic: Not in PGL_ACTIVITY_DRAW_DYNAMIC. (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding UGC_HEADER_ONLY (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_HEADER_ONLY (INFO MESSAGE)
+PFSTReverseMatchType:  changing 1 to 1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+
+retrieving assembly pixelboard ...
+preread_solid:  start 4 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1, session_name=PIXELBOARD obj_type=1 (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 524288 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+File: Solid PIXELBOARD, type 1, generic , status = override
+
+retrieving part gitter ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.1, session_name=GITTER obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 524288 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid GITTER, type 2, generic , status = override
+put_name_list_origin:  ListName: 2 Id: 524288 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part seitenplatte-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1, session_name=SEITENPLATTE-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 524289 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid SEITENPLATTE-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 524289 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part seitenplatte-2 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1, session_name=SEITENPLATTE-2 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 524290 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid SEITENPLATTE-2, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 524290 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part stirnplatte-1 ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1, session_name=STIRNPLATTE-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 524291 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid STIRNPLATTE-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 524291 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part stirnplatte-2 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1, session_name=STIRNPLATTE-2 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 524292 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid STIRNPLATTE-2, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 524292 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part eckteil-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7, session_name=ECKTEIL-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 524293 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid ECKTEIL-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 524293 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part waermeplatte ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3, session_name=WAERMEPLATTE obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 6 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid WAERMEPLATTE, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 6 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 524288 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+retrieve_assem:  Successfully retrieved C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 3 (INFO MESSAGE)
+Failed KOMPONENTE, internal id 48
+Feature aborted: cannot recreate internal datum.
+enable_save:  background save enabled, disable_count = 2 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+model_has_new_failures:  new failure detected, feat id = 48 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+W-promenu_on_button can not find ASSEMBLY-Info
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+BasePopupMenu::verifyNewItem:  MenuItem with same name exists - VmUiRedefine (INFO MESSAGE)
+vmcs_should_delete_thumbnail:  invalid view manager thumbnail name main_-1 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+_conv_obj_shd:  Serment with id 444 not found in PGL_DISPDATA_GPU_REUSE call, is this case of part saved w/o graphics  (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637832 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126406312 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126407048 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1125543304 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127427656 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082388936 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637096 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127421768 in local storage (INFO MESSAGE)
+pglSetStatus::   PglWindowEndDynamic: Not in PGL_ACTIVITY_DRAW_DYNAMIC. (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding UGC_HEADER_ONLY (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_HEADER_ONLY (INFO MESSAGE)
+PFSTReverseMatchType:  changing 1 to 1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+
+retrieving assembly pixelboard ...
+preread_solid:  start 4 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1, session_name=PIXELBOARD obj_type=1 (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 1048576 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+File: Solid PIXELBOARD, type 1, generic , status = override
+
+retrieving part gitter ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.1, session_name=GITTER obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1048576 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid GITTER, type 2, generic , status = override
+put_name_list_origin:  ListName: 2 Id: 1048576 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part seitenplatte-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1, session_name=SEITENPLATTE-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1048577 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid SEITENPLATTE-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1048577 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part seitenplatte-2 ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1, session_name=SEITENPLATTE-2 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1048578 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid SEITENPLATTE-2, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1048578 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part stirnplatte-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1, session_name=STIRNPLATTE-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1048579 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid STIRNPLATTE-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1048579 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part stirnplatte-2 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1, session_name=STIRNPLATTE-2 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1048580 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid STIRNPLATTE-2, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1048580 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part eckteil-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7, session_name=ECKTEIL-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1048581 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid ECKTEIL-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1048581 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part waermeplatte ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3, session_name=WAERMEPLATTE obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 524294 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid WAERMEPLATTE, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 524294 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 1048576 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+retrieve_assem:  Successfully retrieved C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 3 (INFO MESSAGE)
+Failed KOMPONENTE, internal id 48
+Feature aborted: cannot recreate internal datum.
+enable_save:  background save enabled, disable_count = 2 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+model_has_new_failures:  new failure detected, feat id = 48 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+W-promenu_on_button can not find ASSEMBLY-Info
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+BasePopupMenu::verifyNewItem:  MenuItem with same name exists - VmUiRedefine (INFO MESSAGE)
+vmcs_should_delete_thumbnail:  invalid view manager thumbnail name main_-1 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+_conv_obj_shd:  Serment with id 444 not found in PGL_DISPDATA_GPU_REUSE call, is this case of part saved w/o graphics  (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+get_next_feat_quick:  no feature to return (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+get_next_feat_quick:  no feature to return (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+MdlTreeHtmlEnter:  Entered html icon of node id 1 (INFO MESSAGE)
+MdlTreeHtmlExit:  Exited html icon of node id 1 (INFO MESSAGE)
+MdlTreeHtmlEnter:  Entered html icon of node id 2 (INFO MESSAGE)
+MdlTreeHtmlExit:  Exited html icon of node id 2 (INFO MESSAGE)
+MdlTreeHtmlEnter:  Entered html icon of node id 2 (INFO MESSAGE)
+MdlTreeHtmlExit:  Exited html icon of node id 2 (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+get_next_feat_quick:  no feature to return (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+get_next_feat_quick:  no feature to return (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+get_next_feat_quick:  no feature to return (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+get_next_feat_quick:  no feature to return (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+UitGroupCascadeItem::updateVisibleItem:  The visible item in Cascade 'casc246101392' changed to 'ProCmdEnvShadedReflect_item' (INFO MESSAGE)
+UitGroupCascadeItem::updateVisibleItem:  The visible item in Cascade 'casc3104001' changed to 'ProCmdEnvShadedReflect_item' (INFO MESSAGE)
+pglSetStatus::   ipglSetRoutingdata: hiliteditem viewref mismatch (INFO MESSAGE)
+UitGroupCascadeItem::updateVisibleItem:  The visible item in Cascade 'casc246101392' changed to 'ProCmdEnvShadedEdges_item' (INFO MESSAGE)
+UitGroupCascadeItem::updateVisibleItem:  The visible item in Cascade 'casc3104001' changed to 'ProCmdEnvShadedEdges_item' (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+get_next_feat_quick:  no feature to return (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+get_next_feat_quick:  no feature to return (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+addHints:  adding UGC_HEADER_ONLY (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_HEADER_ONLY (INFO MESSAGE)
+PFSTReverseMatchType:  changing 2 to 2 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 100 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 100 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+obj_action_buffer_get_w_filter_low:  Doing References Control checking. (INFO MESSAGE)
+ScCntrWdg_SetFeatMenu:  Already in use (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 100 (INFO MESSAGE)
+ SimpleScWdg_UiAction:   ... "ExtOduiConstListCollector" is current collector (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+ SimpleScWdg_UiAction:   ... "ExtOduiConstListCollector" is still alive. (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 100 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 100 (INFO MESSAGE)
+PreviewWdg_SetPausePopupMenuName:  Invalid level -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+Wow - no dep structure.
+Wow - no dep structure.
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637832 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126406312 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126407048 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1125543304 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127427656 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082388936 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637096 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127421768 in local storage (INFO MESSAGE)
+pglSetStatus::   PglWindowEndDynamic: Not in PGL_ACTIVITY_DRAW_DYNAMIC. (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 2 (INFO MESSAGE)
+free_part_backup_ref_data:  data-freed (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding UGC_HEADER_ONLY (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_HEADER_ONLY (INFO MESSAGE)
+PFSTReverseMatchType:  changing 2 to 2 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+
+retrieving part gitter ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.5, session_name=GITTER obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1572864 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.5 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid GITTER, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1572864 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\gitter.prt.5 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+BasePopupMenu::verifyNewItem:  MenuItem with same name exists - VmUiRedefine (INFO MESSAGE)
+vmcs_should_delete_thumbnail:  invalid view manager thumbnail name main_-1 (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+W-promenu_on_button can not find PART-Move Dim
+W-promenu_on_button can not find PART-Export
+W-promenu_on_button can not find PART-List Declare
+W-promenu_on_button can not find PART-Shrink Info
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637832 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126406312 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1126407048 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1125543304 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127427656 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082388936 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1082637096 in local storage (INFO MESSAGE)
+ProCmdBracketFuncRemove:  no cmd_id 1127421768 in local storage (INFO MESSAGE)
+pglSetStatus::   PglWindowEndDynamic: Not in PGL_ACTIVITY_DRAW_DYNAMIC. (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+addHints:  adding UGC_HEADER_ONLY (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is UGC_HEADER_ONLY (INFO MESSAGE)
+PFSTReverseMatchType:  changing 1 to 1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+
+retrieving assembly pixelboard ...
+preread_solid:  start 4 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1, session_name=PIXELBOARD obj_type=1 (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 1572864 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+File: Solid PIXELBOARD, type 1, generic , status = override
+
+retrieving part seitenplatte-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1, session_name=SEITENPLATTE-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1572865 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid SEITENPLATTE-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1572865 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-1.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part seitenplatte-2 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1, session_name=SEITENPLATTE-2 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1572866 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid SEITENPLATTE-2, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1572866 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\seitenplatte-2.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+
+retrieving part stirnplatte-1 ...
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1, session_name=STIRNPLATTE-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1572867 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid STIRNPLATTE-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1572867 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-1.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part stirnplatte-2 ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1, session_name=STIRNPLATTE-2 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1572868 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid STIRNPLATTE-2, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1572868 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\stirnplatte-2.prt.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part eckteil-1 ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7, session_name=ECKTEIL-1 obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1572869 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid ECKTEIL-1, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1572869 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\eckteil-1.prt.7 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+
+retrieving part waermeplatte ...
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+preread_solid:  start 2 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3, session_name=WAERMEPLATTE obj_type=2 (INFO MESSAGE)
+put_name_list_origin:  ListName: 2 Id: 1048582 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+postread_feat_ref_info_flds:  NULL true_feat for 0 (INFO MESSAGE)
+File: Solid WAERMEPLATTE, type 2, generic , status = override
+ dbkey_put : WARNING old data not freed, key = -5778
+put_name_list_origin:  ListName: 2 Id: 1048582 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\waermeplatte.prt.3 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 1572864 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+retrieve_assem:  Successfully retrieved C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard.asm.1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 3 (INFO MESSAGE)
+Failed KOMPONENTE, internal id 48
+Failed to regenerate component placement.
+enable_save:  background save enabled, disable_count = 2 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+model_has_new_failures:  new failure detected, feat id = 48 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+W-promenu_on_button can not find ASSEMBLY-Info
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+BasePopupMenu::verifyNewItem:  MenuItem with same name exists - VmUiRedefine (INFO MESSAGE)
+vmcs_should_delete_thumbnail:  invalid view manager thumbnail name main_-1 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+_conv_obj_shd:  Serment with id 444 not found in PGL_DISPDATA_GPU_REUSE call, is this case of part saved w/o graphics  (INFO MESSAGE)
+pglSetStatus::   TriStripSetWithAtt with no strip (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+rmb_menus_tree_popup_menu_pre_CB:  === RMB Menu Name Asm_SelComps_Cmd_Group  (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+obj_action_buffer_get_w_filter_low:  Doing References Control checking. (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 51 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 48 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 53 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 68 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 69 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 70 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 77 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 80 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 87 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 96 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 98 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 95 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+ScCntrWdg_SetFeatMenu:  Already in use (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+ SimpleScWdg_UiAction:   ... "ExtOduiCompInttoIntCollector" is current collector (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+PreviewWdg_SetPausePopupMenuName:  Invalid level -1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+Failed KOMPONENTE, internal id 48
+Failed to regenerate component placement.
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+MdlTreeHtmlEnter:  Entered html icon of node id 2 (INFO MESSAGE)
+MdlTreeHtmlExit:  Exited html icon of node id 2 (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+rmb_menus_tree_popup_menu_pre_CB:  === RMB Menu Name Asm_SelComps_Cmd_Group  (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+obj_action_buffer_get_w_filter_low:  Doing References Control checking. (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+MdlTreeStoreSelBuf():  Store selection buffer of the command 7 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+rmb_menus_tree_popup_menu_pre_CB:  === RMB Menu Name Asm_SelComps_Cmd_Group  (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelComps_MTB (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+obj_action_buffer_get_w_filter_low:  Doing References Control checking. (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+
+   File_1 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_bef.dat.1
+   File_2 is: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\backdb_aft.dat.1
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+ScCntrWdg_SetFeatMenu:  Already in use (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+ SimpleScWdg_UiAction:   ... "ExtOduiCompInttoIntCollector" is current collector (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+PreviewWdg_SetPausePopupMenuName:  Invalid level -1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+feat 47 was rolled forward.
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+tweak_pan_zoom:  PAN_ZOOM: scale is 1 (INFO MESSAGE)
+tweak_pan_zoom:  PAN_ZOOM hint: do ~View ~Previous here (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+mini_toolbar_create:  === MTB Name - Asm_SelGeom_MTB (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+obj_action_buffer_get_w_filter_low:  Doing References Control checking. (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat 47 (INFO MESSAGE)
+obj_action_buffer_get_w_filter_low:  Doing References Control checking. (INFO MESSAGE)
+SOIP_Overlay_cb:  SOIP Cascade Destroyed (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+prepare_named_object_retrieval:  overwriting retr_mode (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+
+retrieving assembly inlbs_asm_design_abs ...
+preread_solid:  start 4 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\Program Files\PTC\Creo 10.0.4.0\Common Files\templates\inlbs_asm_design_abs.asm, session_name=INLBS_ASM_DESIGN_ABS obj_type=1 (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 1 PFA is available: C:\Program Files\PTC\Creo 10.0.4.0\Common Files\templates\inlbs_asm_design_abs.asm (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+File: Solid INLBS_ASM_DESIGN_ABS, type 1, generic , status = override
+zTocMgr::internal_maybe_open:  access failed (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 1 PFA is available: C:\Program Files\PTC\Creo 10.0.4.0\Common Files\templates\inlbs_asm_design_abs.asm (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+retrieve_assem:  Successfully retrieved C:\Program Files\PTC\Creo 10.0.4.0\Common Files\templates\inlbs_asm_design_abs.asm (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=pixelboard-1.asm, session_name=PIXELBOARD-1 obj_type=1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+disable_save_and_abort:  aborting and disabling autosave, current disable count is 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=pixelboard-1.asm, session_name=PIXELBOARD-1 obj_type=1 (INFO MESSAGE)
+save_object_dbmsop:  Using the obsolete way to copy. (INFO MESSAGE)
+dbmsop_retr_get_embed_data:  9 != 2 (INFO MESSAGE)
+dbmsop_retr_is_version_zero:  9 != 10 (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+writing INLBS_ASM_DESIGN_ABS of type 1
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+addHints:  adding SKIP_PENDING (INFO MESSAGE)
+addHints:  adding UGE_ORIGINAL_VERSION.C:/Program Files/PTC/Creo 10.0.4.0/Common Files/templates/inlbs_asm_design_abs.asm (INFO MESSAGE)
+addHints:  adding SKIP_PENDING (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is SKIP_PENDING (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+close_sts_transaction:  NULL sts_txn_owner (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+find_sld_appl_info:  Type not handled 1 (INFO MESSAGE)
+
+retrieving assembly pixelboard-1 ...
+preread_solid:  start 4 0, have PFA = 1 (INFO MESSAGE)
+nl_fill_path_name::  fill_pfa: full_name=C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard-1.asm.1, session_name=PIXELBOARD-1 obj_type=1 (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 524289 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard-1.asm.1 (INFO MESSAGE)
+preread_solid:  end (INFO MESSAGE)
+File: Solid PIXELBOARD-1, type 1, generic , status = override
+zTocMgr::internal_maybe_open:  access failed (INFO MESSAGE)
+put_name_list_origin:  ListName: 4 Id: 524289 PFA is available: C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard-1.asm.1 (INFO MESSAGE)
+dtl_load_fonts:  (Re)loading fonts (INFO MESSAGE)
+dtl_font_session_id:  Using default font for text with font id -1 (INFO MESSAGE)
+retrieve_assem:  Successfully retrieved C:\4AHWII\SPL\PixelboardCreo\PixelboardCreo\pixelboard-1.asm.1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 2 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 1 (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+disable_save:  background save disabled, disable_count = 1 (INFO MESSAGE)
+enable_save:  background save enabled, disable_count = 0 (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+W-promenu_on_button can not find ASSEMBLY-Info
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+vmcs_should_delete_thumbnail:  invalid view manager thumbnail name main_-1 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+pro_notification_remove:  event_id 12 was never defined? (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+pglSetStatus::   PglWindowEndDynamic: Not in PGL_ACTIVITY_DRAW_DYNAMIC. (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+pro_notification_remove:  event_id 12 was never defined? (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+feat_ptr_layer_id_low:  Failed to get layer id for feat -1 (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+W-promenu_on_button can not find ASSEMBLY-Move Dim
+W-promenu_on_button can not find ASSEMBLY-Modify Dim
+W-promenu_on_button can not find ASSEMBLY-Mod Explode
+W-promenu_on_button can not find ASSEMBLY-Modify Part
+W-promenu_on_button can not find ASSEMBLY-Export
+W-promenu_on_button can not find ASSEMBLY-Info
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+BasePopupMenu::verifyNewItem:  MenuItem with same name exists - VmUiRedefine (INFO MESSAGE)
+vmcs_should_delete_thumbnail:  invalid view manager thumbnail name main_-1 (INFO MESSAGE)
+W-cannot find menu:ASSEMBLY and/or item:Surface to make accessible
+update_rmb_context:  ==== Called update_rmb_context() (INFO MESSAGE)
+addHints:  adding NO_STS_TRANSACTION (INFO MESSAGE)
+zTocMgr::internal_maybe_open:  hint is NO_STS_TRANSACTION (INFO MESSAGE)
+zstDummyCreoPI::setModified:  setting group_index = 0 modified (INFO MESSAGE)
+ResizeControlWdg::initContainerChildMaxWidth:  The max size in 'main_dlg_w1' of 'page_Tools_control_btn' has been changed from 141 to 134 (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+pro_notification_remove:  event_id 12 was never defined? (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
+pgli_ogl_release_one_native_texture::  Invalid Opengl Context (INFO MESSAGE)
+pglSetStatus::   Pgl Session Terminate (INFO MESSAGE)
